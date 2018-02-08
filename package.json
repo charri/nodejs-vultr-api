@@ -1,5 +1,5 @@
 {
-  "name": "vultr-api",
+  "name": "vultr-api-es6",
   "version": "0.0.1",
   "description": "ES6 based library for Vultr API generated from the online docs.",
   "main": "api.generated.js",
