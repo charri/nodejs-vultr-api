@@ -30,7 +30,7 @@ class Rest {
           };
         }
     
-        switch (type.toUpperCase()) {
+        switch (method.toUpperCase()) {
           case 'GET':
           case 'DELETE':
             options.qs = data;
